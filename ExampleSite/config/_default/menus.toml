@@ -1,6 +1,6 @@
 [[main]]
     identifier = "home"
-    name = "Home2"
+    name = "Home"
     url = "/"
     weight = 1
 

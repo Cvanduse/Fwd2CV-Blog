@@ -1,6 +1,6 @@
-[latestArticles]
-    other = 'Latest articles'
-
+[latestPosts]
+    other = 'Latest posts'
+    
 [readMore]
     other = 'Read more'
 
